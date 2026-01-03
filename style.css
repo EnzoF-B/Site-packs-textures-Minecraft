@@ -1,0 +1,57 @@
+body {
+  background-color:black;
+}
+
+#title {
+  color:white;
+  text-align: center;
+  font-family:monospace;
+}
+
+#mh {
+  color:lightgoldenrodyellow;
+  text-align: center;
+}
+
+#perso-e {
+  color:crimson;
+}
+
+#perso-f {
+  color: lightblue;
+}
+
+#perso {
+  display:flex;
+  justify-content:center;
+}
+
+#slash {
+  color: white;
+}
+
+#dp {
+  color:white
+}
+
+#ig {
+  color:white;
+  display:inline-block;
+  margin:0 2%;
+}
+
+#ds {
+  color:white;
+  text-align:center!important;
+}
+
+#p {
+  text-align:center;
+}
+
+img {
+  height:300px;
+  float:right;
+  margin-right: 200px;
+  margin-top: 50px;
+}
